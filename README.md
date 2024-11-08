@@ -5,6 +5,16 @@ https://github.com/DataboyUsen/Pulse-lead-Peak-Detection
 
 https://github.com/scientisst/BioSPPy
 
+
+https://github.com/CN-DXTZ/PulseWave/tree/master/Python
+
+https://peterhcharlton.github.io/pwdb/pwdb.html
+
+https://github.com/fwolling/PPGraw/issues/2
+
+https://github.com/peterhcharlton/ppg-beats
+
+
 ## preprocess
 
 ### 去工频
