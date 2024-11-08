@@ -1,5 +1,12 @@
 # ppg-to-pulse
 
+https://github.com/paulvangentcom/heartrate_analysis_python/blob/master/examples/1_regular_PPG/Analysing_a_PPG_signal.ipynb
+
+
+https://github.com/Giorgia01carboni/ppg-analyzer
+
+https://github.com/aunal16/video_to_ppg
+
 https://github.com/23875658/cuffless-bp-monitoring
 
 https://github.com/DataboyUsen/Pulse-lead-Peak-Detection
