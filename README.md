@@ -1,5 +1,25 @@
 # ppg-to-pulse
 
+https://github.com/23875658/cuffless-bp-monitoring
+
+https://github.com/DataboyUsen/Pulse-lead-Peak-Detection
+
+https://github.com/davidokel/PPGExtract/tree/master
+
+https://github.com/WeiweiJin/PulseWaveSignalProcessor/tree/main
+
+https://github.com/stw32/PulseWaveform
+
+https://github.com/vgees/AI-in-Wearable-Device-Data/tree/master/Pulse%20Rate%20Algorithm
+
+https://github.com/TigerKAP/pulse_ox
+
+https://github.com/shiown026/pulseRateEstimate
+
+
+https://github.com/tonyfu97/Pulse-Ox-BLE
+
+
 https://github.com/DataboyUsen/Pulse-lead-Peak-Detection
 
 
@@ -14,6 +34,10 @@ https://github.com/fwolling/PPGraw/issues/2
 
 https://github.com/peterhcharlton/ppg-beats
 
+https://github.com/dwil2444/PW_Processing/tree/main
+https://github.com/fwolling/PulSync
+
+https://github.com/birdflu/pulse/tree/master
 
 ## preprocess
 
